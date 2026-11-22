@@ -4,7 +4,7 @@ Cruzadinha de Arquitetura Computacional
 
 Jogo de cruzadinha que roda no navegador (HTML, CSS e JavaScript puros) para treinar os termos de Arquitetura Computacional.
 
-Jogue aqui: https://SEU-USUARIO.github.io/arqcomp-cruzadinha/
+Jogue aqui: https://fernandooliveiraa7.github.io/arqcomp-cruzadinha/
 
 Como jogar
 Leia as pistas em Horizontais e Verticais; os números batem com os do tabuleiro.
